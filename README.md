@@ -10,7 +10,7 @@
 [![Roblox](https://img.shields.io/badge/Roblox-Live%20Client-e31b23?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com)
 [![Status](https://img.shields.io/badge/Auto%20Update-Every%20Roblox%20Patch-00b06f?style=for-the-badge&logo=githubactions&logoColor=white)](https://discord.gg/xQzrwQCSjg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roblox_Logo_2022.svg/512px-Roblox_Logo_2022.svg.png" alt="Roblox" width="220"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Roblox_Logo_2022.svg/960px-Roblox_Logo_2022.svg.png" alt="Roblox" width="220"/>
 
 </div>
 
