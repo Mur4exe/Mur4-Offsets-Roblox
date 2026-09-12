@@ -16,6 +16,18 @@
 
 ---
 
+## 🎬 Showcase
+
+<div align="center">
+
+https://github.com/user-attachments/assets/<VIDEO_ID>
+
+*(replace the line above after uploading `Mur4_Showcase.mp4` to the repo — see note below)*
+
+</div>
+
+---
+
 ## 📌 What is this?
 
 **Mur4 Offsets** is a community project that publishes **external memory offsets** for the Roblox client (RobloxPlayerBeta.exe).
