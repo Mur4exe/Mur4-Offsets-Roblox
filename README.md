@@ -23,7 +23,7 @@
 
 <video src="https://files.catbox.moe/szip1j.mp4" controls muted loop playsinline width="100%"></video>
 
-**[▶ Watch the showcase video](https://files.catbox.moe/szip1j.mp4)**
+**[▶ Watch the video](https://files.catbox.moe/szip1j.mp4)**
 
 </div>
 
