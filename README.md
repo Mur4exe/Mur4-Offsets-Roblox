@@ -22,6 +22,8 @@
 
 <video src="https://files.catbox.moe/szip1j.mp4" controls muted loop playsinline width="100%"></video>
 
+**[▶ Watch the showcase video](https://files.catbox.moe/szip1j.mp4)**
+
 </div>
 
 ---
@@ -137,3 +139,7 @@ Use of third-party tools may violate Roblox's Terms of Service — you are respo
 **Mur4 Offsets** · *Live-extracted. Memory-verified. Always fresh.*
 
 </div>
+
+
+https://github.com/user-attachments/assets/378a3c37-e520-4bdd-94f1-545150e7d846
+
