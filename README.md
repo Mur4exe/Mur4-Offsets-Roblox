@@ -20,9 +20,7 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/<VIDEO_ID>
-
-*(replace the line above after uploading `Mur4_Showcase.mp4` to the repo — see note below)*
+<video src="Mur4_Showcase.mp4" controls muted loop playsinline width="100%"></video>
 
 </div>
 
