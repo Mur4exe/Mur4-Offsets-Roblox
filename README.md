@@ -70,7 +70,7 @@ namespace Lighting {
                                                         │
                                                         ▼
   ┌──────────────┐      ┌───────────────┐      ┌──────────────────┐
-  │  ✅ CANLI    │ ◄─── │  12s sampling │ ───► │  ✅ SABIT        │
+  │  ✅ Alive    │ ◄─── │  12s sampling │ ───► │  ✅ Constant    │
   │  value moves │      │ phase tracking│      │  value stable    │
   └──────────────┘      └───────────────┘      └──────────────────┘
 ```
