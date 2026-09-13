@@ -6,7 +6,7 @@
 
 **Fresh Roblox offsets — extracted live from the client, verified in memory, delivered in minutes.**
 
-[![Website](https://img.shields.io/badge/_Website-Live%20Offset%20Browser-e31b23?style=for-the-badge)](https://mur4exe.github.io/Mur4-Offsets-Roblox-Website/#home)
+[![Website](https://img.shields.io/badge/🌐Website-Live%20Offset%20Browser-e31b23?style=for-the-badge)](https://mur4exe.github.io/Mur4-Offsets-Roblox-Website/#home)
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xQzrwQCSjg)
 [![Roblox](https://img.shields.io/badge/Roblox-Live%20Client-e31b23?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com)
 [![Status](https://img.shields.io/badge/Auto%20Update-Every%20Roblox%20Patch-00b06f?style=for-the-badge&logo=githubactions&logoColor=white)](https://discord.gg/xQzrwQCSjg)
